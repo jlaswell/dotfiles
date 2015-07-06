@@ -4,6 +4,6 @@ oh-my-zsh/projects.zsh
 oh-my-zsh/*.swp
 !oh-my-zsh/custom/example.zshcache
 oh-my-zsh/cache/
-
+fasd
 
 
